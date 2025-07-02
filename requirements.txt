@@ -1,0 +1,4 @@
+click
+cplex
+graphviz
+scipy

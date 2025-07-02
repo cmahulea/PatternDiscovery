@@ -1,0 +1,1120 @@
+<pnml xmlns="http://www.pnml.org/version-2009/grammar/pnml">
+ <net id="Uqjhs44t" type="http://www.pnml.org/version-2009/grammar/ptnet">
+  <page id="e4pZDh29">
+    <place id="vRTC7bTs">
+     <graphics>
+      <position x="0" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P0</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="JoU670bS">
+     <graphics>
+      <position x="50" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P1</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="uXswy9zU">
+     <graphics>
+      <position x="100" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P2</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="aOtKnwx7">
+     <graphics>
+      <position x="150" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P3</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="FXTCOXTA">
+     <graphics>
+      <position x="200" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P4</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="oX2q104u">
+     <graphics>
+      <position x="250" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P5</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="TM6ZzZye">
+     <graphics>
+      <position x="300" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P6</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="6bg5BrIM">
+     <graphics>
+      <position x="350" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P7</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="d6uwOpoq">
+     <graphics>
+      <position x="400" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P8</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="XS73Dlvj">
+     <graphics>
+      <position x="450" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P9</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="fXnVwAAl">
+     <graphics>
+      <position x="500" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P10</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="j7iLCsWD">
+     <graphics>
+      <position x="550" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P11</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="m2J5IEw8">
+     <graphics>
+      <position x="600" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P12</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="cVTFP4uk">
+     <graphics>
+      <position x="650" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P13</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="F2zFHnSx">
+     <graphics>
+      <position x="700" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P14</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="bv28PR5E">
+     <graphics>
+      <position x="750" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P15</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="hYNMvIDf">
+     <graphics>
+      <position x="800" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P16</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="rjQO2pH2">
+     <graphics>
+      <position x="850" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P17</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="tmkU6H7E">
+     <graphics>
+      <position x="900" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P18</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="AS2mBLkE">
+     <graphics>
+      <position x="950" y="150.0"/>
+     </graphics>
+     <name>
+      <text>P19</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <place id="sk9xmwFN">
+     <graphics>
+      <position x="1000" y="150.0"/>
+     </graphics>
+     <name>
+      <text>start</text>
+     </name>
+     <initialMarking>
+      <text>1</text>
+     </initialMarking>
+    </place>
+    <place id="yHyM4eOG">
+     <graphics>
+      <position x="1050" y="150.0"/>
+     </graphics>
+     <name>
+      <text>end</text>
+     </name>
+     <initialMarking>
+      <text>0</text>
+     </initialMarking>
+    </place>
+    <transition id="qNeEw5iF">
+     <graphics>
+      <position x="0" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Pre-admission_MRI</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.194123457116085</text>
+       </param>
+       <param name="sigma">
+         <text>0.03443077237389973</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="4PPQqweC" source="sk9xmwFN" target="qNeEw5iF">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="wUglzth6" source="qNeEw5iF" target="tmkU6H7E">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.8461538461538461</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="yE5702fV" source="qNeEw5iF" target="AS2mBLkE">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.15384615384615385</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="fpUkyUFD">
+     <graphics>
+      <position x="50" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Surgical_consents</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.206591858447766</text>
+       </param>
+       <param name="sigma">
+         <text>0.01954922221678578</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="EPPbUzcD" source="tmkU6H7E" target="fpUkyUFD">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="XVu8MBAg" source="fpUkyUFD" target="vRTC7bTs">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="hW8Qny9f">
+     <graphics>
+      <position x="100" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Pre-anesthetic_evaluation_in_consultations</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.216985627676515</text>
+       </param>
+       <param name="sigma">
+         <text>0.018094365544343037</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="AvknP6YA" source="vRTC7bTs" target="hW8Qny9f">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="fUKM1Qtk" source="hW8Qny9f" target="JoU670bS">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="kIyICi9a">
+     <graphics>
+      <position x="150" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Verification_of_anesthesia_evaluationin-hospital_request</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.219771209102003</text>
+       </param>
+       <param name="sigma">
+         <text>0.018858960321382484</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="NRCENQum" source="JoU670bS" target="kIyICi9a">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="MHylK0qQ" source="kIyICi9a" target="uXswy9zU">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="PEgUBIHV">
+     <graphics>
+      <position x="200" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Medication_regimen_and_antibiotic_induction</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.21977301023084</text>
+       </param>
+       <param name="sigma">
+         <text>0.018862465414885142</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="iryghaAR" source="uXswy9zU" target="PEgUBIHV">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="Gg0kkNrx" source="PEgUBIHV" target="aOtKnwx7">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="KYJSnHSv">
+     <graphics>
+      <position x="250" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Verification_of_surgical_informed_consent</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.21976812340053</text>
+       </param>
+       <param name="sigma">
+         <text>0.018854664824795177</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="ky9GmKMH" source="aOtKnwx7" target="KYJSnHSv">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="YPKHeRTt" source="KYJSnHSv" target="fXnVwAAl">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.8666666666666667</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="dosHT6fN" source="KYJSnHSv" target="j7iLCsWD">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.13333333333333333</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="ZKgFZx5T">
+     <graphics>
+      <position x="300" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Verification_of_fasting_for_surgery</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.21982146134659</text>
+       </param>
+       <param name="sigma">
+         <text>0.018854735256680962</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="kR265riy" source="fXnVwAAl" target="ZKgFZx5T">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="4F74umnI" source="ZKgFZx5T" target="FXTCOXTA">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="pIhdYicI">
+     <graphics>
+      <position x="350" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Antibiotics_during_surgery</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.21982260237786</text>
+       </param>
+       <param name="sigma">
+         <text>0.018856746931296024</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="U7PZQ5Pp" source="FXTCOXTA" target="pIhdYicI">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="q8rth7wA" source="pIhdYicI" target="oX2q104u">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="e4rxnaeu">
+     <graphics>
+      <position x="400" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Surgical_protocol</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.219827784110517</text>
+       </param>
+       <param name="sigma">
+         <text>0.018862108234281614</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="taFkkUfd" source="oX2q104u" target="e4rxnaeu">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="xSo637kQ" source="e4rxnaeu" target="TM6ZzZye">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="jZTJpCPH">
+     <graphics>
+      <position x="450" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Low_Molecular_Weight_Heparin_(LMWH)_post-surgery</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.220004975856693</text>
+       </param>
+       <param name="sigma">
+         <text>0.018861440011797855</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="uIy7cDJ6" source="TM6ZzZye" target="jZTJpCPH">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="VHTx2kyI" source="jZTJpCPH" target="6bg5BrIM">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="EPpNYlOe">
+     <graphics>
+      <position x="500" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Antibiotics_post-surgery</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.219868217222373</text>
+       </param>
+       <param name="sigma">
+         <text>0.018856031078160033</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="5AVlHAfi" source="6bg5BrIM" target="EPpNYlOe">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="7g9LY4Ko" source="EPpNYlOe" target="d6uwOpoq">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="goz02GoY">
+     <graphics>
+      <position x="550" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Removal_of_drain_on_the_first_day</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.219985693805803</text>
+       </param>
+       <param name="sigma">
+         <text>0.01887727484801116</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="UWDRo30s" source="d6uwOpoq" target="goz02GoY">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="1aI0JqIA" source="goz02GoY" target="XS73Dlvj">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="ocBkdPbM">
+     <graphics>
+      <position x="600" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Checking_the_surgical_wound</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.219985693805803</text>
+       </param>
+       <param name="sigma">
+         <text>0.01887727484801116</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="jKOQGdqD" source="XS73Dlvj" target="ocBkdPbM">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="ZP8X6RXf" source="ocBkdPbM" target="m2J5IEw8">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.8666666666666667</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="4NGQNX1f" source="ocBkdPbM" target="cVTFP4uk">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.13333333333333333</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="4iz1nYRE">
+     <graphics>
+      <position x="650" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Dressing_staining</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.218363953678356</text>
+       </param>
+       <param name="sigma">
+         <text>0.01922423952992061</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="lAkO8Ye7" source="m2J5IEw8" target="4iz1nYRE">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="tployXXf" source="4iz1nYRE" target="F2zFHnSx">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="oPum0nZw">
+     <graphics>
+      <position x="700" y="240.0"/>
+     </graphics>
+     <name>
+      <text>In-hospital_extension_of_antibiotics</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.218868353627737</text>
+       </param>
+       <param name="sigma">
+         <text>0.018166628111886244</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="tF1tMrxK" source="F2zFHnSx" target="oPum0nZw">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="XUaEFeMI" source="oPum0nZw" target="cVTFP4uk">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.896551724137931</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="KRTW8WVa" source="oPum0nZw" target="bv28PR5E">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.06896551724137931</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="g9DMf7nO" source="oPum0nZw" target="hYNMvIDf">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.034482758620689655</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="gnWi09Ah">
+     <graphics>
+      <position x="750" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Ambulation</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.219823343667564</text>
+       </param>
+       <param name="sigma">
+         <text>0.01861130357550301</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="RyJl1ZZe" source="cVTFP4uk" target="gnWi09Ah">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="XUIwanKH" source="gnWi09Ah" target="rjQO2pH2">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.8666666666666667</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="W7kuq8ne" source="gnWi09Ah" target="bv28PR5E">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.06666666666666667</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="JaOUAFhM" source="gnWi09Ah" target="hYNMvIDf">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.06666666666666667</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="oWvA5ZyN">
+     <graphics>
+      <position x="800" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Analgesic_rescue</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.21501485344683</text>
+       </param>
+       <param name="sigma">
+         <text>0.0179474448079675</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="KPy9Zm98" source="bv28PR5E" target="oWvA5ZyN">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="KyhXdqEZ" source="oWvA5ZyN" target="hYNMvIDf">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="WS6ijCtJ">
+     <graphics>
+      <position x="850" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Discharge</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.219997244136948</text>
+       </param>
+       <param name="sigma">
+         <text>0.01889119890933435</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="voc4lKCd" source="hYNMvIDf" target="WS6ijCtJ">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="xyBOcq7z" source="WS6ijCtJ" target="yHyM4eOG">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="P92onDD1">
+     <graphics>
+      <position x="900" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Rehabilitation</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.215650816756565</text>
+       </param>
+       <param name="sigma">
+         <text>0.016309102608358897</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="f5ZlIcJJ" source="rjQO2pH2" target="P92onDD1">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="60NWz0BE" source="P92onDD1" target="bv28PR5E">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.6538461538461539</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="LdzcciZO" source="P92onDD1" target="hYNMvIDf">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.23076923076923078</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <arc id="sJryhZIQ" source="P92onDD1" target="F2zFHnSx">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>0.11538461538461539</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="R43qQ24q">
+     <graphics>
+      <position x="950" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Request_for_allograft_before_admission</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.20461957336868</text>
+       </param>
+       <param name="sigma">
+         <text>0.0018506656308516125</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="z8qs3Eia" source="AS2mBLkE" target="R43qQ24q">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="rLc5rUCb" source="R43qQ24q" target="tmkU6H7E">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="6Wjz8ySn">
+     <graphics>
+      <position x="1000" y="240.0"/>
+     </graphics>
+     <name>
+      <text>Verification_of_informed_consent_for_allograft</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="lognormal">
+       <param name="mu">
+         <text>21.20461957336868</text>
+       </param>
+       <param name="sigma">
+         <text>0.0018506656308516125</text>
+       </param>
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="Y7HwuJYf" source="j7iLCsWD" target="6Wjz8ySn">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="JkkPbwQb" source="6Wjz8ySn" target="fXnVwAAl">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1.0</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+    <transition id="AhA6eD8A">
+     <graphics>
+      <position x="1050" y="240.0"/>
+     </graphics>
+     <name>
+      <text>repeat</text>
+     </name>
+     <toolspecific tool="PTPN" version="0.1">
+      <time_function type="None">
+      </time_function>
+     </toolspecific>
+    </transition>
+    <arc id="zvHMfoPK" source="yHyM4eOG" target="AhA6eD8A">
+     <inscription>
+      <text>1</text>
+     </inscription>
+    </arc>
+    <arc id="ewvd4u93" source="AhA6eD8A" target="sk9xmwFN">
+     <inscription>
+       <text>1</text>
+     </inscription>
+     <toolspecific tool="PTPN" version="0.1">
+      <distribution id="0">
+        <probability>
+          <text>1</text>
+        </probability>
+      </distribution>
+     </toolspecific>
+    </arc>
+  </page>
+ </net>
+</pnml>

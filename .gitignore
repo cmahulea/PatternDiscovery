@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDE configuration files
+.vscode/
+.idea/
+*.swp
+
+# Temporary and backup files
+*~
+*.bak
+*.tmp
+*tmp*
+
+# Sensitive or large data
+PTPN/database/lca
+*.csv
+
+# Others
+.DS_Store
+Thumbs.db
