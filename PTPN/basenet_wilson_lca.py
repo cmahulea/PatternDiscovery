@@ -27,19 +27,21 @@ def normalize(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
 
 # 3. Calcular intervalos de Wilson
-def wilson_confidence_intervals(sup_count ,hypotetical_n):
+def wilson_confidence_intervals(sup_count, sup_total, hypotetical_n):
     intervals = {}  # not the same as in pattern_discovery
     z = 1.96
-    n = hypotetical_n
+    n_p = hypotetical_n
     for support, patterns in sup_count.items():
         for pattern in patterns:
             # print(f"Calculating Wilson interval for pattern {pattern} with support {support} and n={n}")
             k = support
+            n = sup_total[pattern[0]]
             pi = k/n
-            pi_tilde = (pi + z**2/(2*n))/(1 + z**2/n)
 
-            sqrt_arg = max(0, pi*(1-pi)/n + z**2/(4*n**2)) # Avoid negative square root
-            half = z/(1 + z**2/n)*(sqrt_arg)**0.5
+            pi_tilde = (pi + z**2/(2*n_p))/(1 + z**2/n_p)
+
+            sqrt_arg = pi*(1-pi)/n_p + z**2/(4*n_p**2)
+            half = z/(1 + z**2/n_p)*(sqrt_arg)**0.5
 
             ci95 = [pi_tilde - half, pi_tilde + half]
             
@@ -152,11 +154,11 @@ def main():
 
 
     print("Generating Wilson confidence intervals...")
-    sup_count, _ = init_all_supports(database, alphabet)
+    sup_count, sup_total = init_all_supports(database, alphabet)
     sample_sizes = [3, 10, 30, 100]
     intervals = {}
     for n_prime in sample_sizes:
-        intervals[str(n_prime)] = wilson_confidence_intervals(sup_count, n_prime)
+        intervals[str(n_prime)] = wilson_confidence_intervals(sup_count, sup_total, n_prime)
     # Guardar como JSON
     with open(wilson_file, "w") as f:
         json.dump(intervals, f, indent=2)

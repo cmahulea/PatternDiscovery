@@ -95,6 +95,7 @@ def plot_throughputs(metrics):
     plt.ylabel('Throughput')
     plt.xticks(sample_sizes)
     plt.savefig(folder+"througput.png")
+    # plt.show()
 
 def plot_CI(metrics):
     sample_sizes = list(metrics.keys())
@@ -109,6 +110,8 @@ def plot_CI(metrics):
     plt.xticks(sample_sizes)
     plt.legend()
     plt.savefig(folder+"confidence_intervals.png")
+    # plt.show()
+    
 def main():
     txt = "Monte Carlo Efficiency Bounds Results\n=====================================\n"
     metrics = {}

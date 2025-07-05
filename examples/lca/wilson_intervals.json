@@ -2,332 +2,332 @@
   "3": {
     "In-hospital_extension_of_antibiotics": {
       "Discharge": [
-        0.061490315276160556,
-        0.792345044873512
+        0.0008824286497284284,
+        0.5908646117683225
       ],
       "Analgesic_rescue": [
-        0.20765495512648796,
-        0.9385096847238394
+        0.003371366581773172,
+        0.6186166338053111
       ],
       "Ambulation": [
-        4.081033676333021,
-        4.081033676333021
+        0.35504685932420615,
+        0.9927241803196762
       ]
     },
     "Ambulation": {
       "Analgesic_rescue": [
-        0.20765495512648796,
-        0.9385096847238394
+        0.0031595700263974402,
+        0.6168123663627512
       ],
       "Discharge": [
-        0.20765495512648796,
-        0.9385096847238394
+        0.0031595700263974402,
+        0.6168123663627512
       ],
       "Rehabilitation": [
-        4.081033676333021,
-        4.081033676333021
+        0.33325398731449474,
+        0.9883082203562256
       ]
     },
     "Rehabilitation": {
       "In-hospital_extension_of_antibiotics": [
-        0.43849391955098227,
-        1.0
+        0.00892968615812939,
+        0.6537672988026535
       ],
       "Discharge": [
-        1.1577408793264732,
-        1.1577408793264732
+        0.0319019047958074,
+        0.7319859846767405
       ],
       "Analgesic_rescue": [
-        2.7655519176800745,
-        2.7655519176800745
+        0.20065152629144417,
+        0.9342696797242427
       ]
     },
     "Pre-admission_MRI": {
       "Request_for_allograft_before_admission": [
-        0.8654115996258184,
-        0.8654115996258184
+        0.015235885680516814,
+        0.6811914007841877
       ],
       "Surgical_consents": [
-        3.4963751169317114,
-        3.4963751169317114
+        0.31880859921581217,
+        0.9847641143194831
       ]
     },
     "Verification_of_surgical_informed_consent": {
       "Verification_of_informed_consent_for_allograft": [
-        0.8654115996258184,
-        0.8654115996258184
+        0.01169177964377438,
+        0.6667460126855052
       ],
       "Verification_of_fasting_for_surgery": [
-        4.081033676333021,
-        4.081033676333021
+        0.33325398731449474,
+        0.9883082203562256
       ]
     },
     "Checking_the_surgical_wound": {
       "Ambulation": [
-        0.8654115996258184,
-        0.8654115996258184
+        0.01169177964377438,
+        0.6667460126855052
       ],
       "Dressing_staining": [
-        4.081033676333021,
-        4.081033676333021
+        0.33325398731449474,
+        0.9883082203562256
       ]
     },
     "Request_for_allograft_before_admission": {
       "Surgical_consents": [
-        0.8654115996258184,
-        0.8654115996258184
+        0.43849391955098227,
+        1.0
       ]
     },
     "Verification_of_informed_consent_for_allograft": {
       "Verification_of_fasting_for_surgery": [
-        0.8654115996258184,
-        0.8654115996258184
+        0.43849391955098227,
+        1.0
       ]
     },
     "Analgesic_rescue": {
       "Discharge": [
-        3.350210477081384,
-        3.350210477081384
+        0.43849391955098227,
+        1.0
       ]
     },
     "Dressing_staining": {
       "In-hospital_extension_of_antibiotics": [
-        4.081033676333021,
-        4.081033676333021
+        0.43849391955098227,
+        1.0
       ]
     },
     "Surgical_consents": {
       "Pre-anesthetic_evaluation_in_consultations": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Pre-anesthetic_evaluation_in_consultations": {
       "Verification_of_anesthesia_evaluationin-hospital_request": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Verification_of_anesthesia_evaluationin-hospital_request": {
       "Medication_regimen_and_antibiotic_induction": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Medication_regimen_and_antibiotic_induction": {
       "Verification_of_surgical_informed_consent": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Verification_of_fasting_for_surgery": {
       "Antibiotics_during_surgery": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Antibiotics_during_surgery": {
       "Surgical_protocol": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Surgical_protocol": {
       "Low_Molecular_Weight_Heparin_(LMWH)_post-surgery": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Low_Molecular_Weight_Heparin_(LMWH)_post-surgery": {
       "Antibiotics_post-surgery": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Antibiotics_post-surgery": {
       "Removal_of_drain_on_the_first_day": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     },
     "Removal_of_drain_on_the_first_day": {
       "Checking_the_surgical_wound": [
-        4.665692235734331,
-        4.665692235734331
+        0.43849391955098227,
+        1.0
       ]
     }
   },
   "10": {
     "In-hospital_extension_of_antibiotics": {
       "Discharge": [
-        0.01787574951572113,
-        0.4041563854975721
+        0.0026455097927886306,
+        0.32471947492095776
       ],
       "Analgesic_rescue": [
-        0.056680947980693314,
-        0.5098431532792765
+        0.009341330694021766,
+        0.3678484699668545
       ],
       "Ambulation": [
-        2.0171656455901052,
-        2.0171656455901052
+        0.5919318175668252,
+        0.9810535658251686
       ]
     },
     "Ambulation": {
       "Analgesic_rescue": [
-        0.056680947980693314,
-        0.5098431532792765
+        0.00879532071000741,
+        0.3650728255543936
       ],
       "Discharge": [
-        0.056680947980693314,
-        0.5098431532792765
+        0.00879532071000741,
+        0.3650728255543936
       ],
       "Rehabilitation": [
-        2.0171656455901052,
-        2.0171656455901052
+        0.5589228897493991,
+        0.9708809864884155
       ]
     },
     "Rehabilitation": {
       "In-hospital_extension_of_antibiotics": [
-        0.10778928748621183,
-        0.6032267800204347
+        0.02282313376991152,
+        0.42143853451210117
       ],
       "Discharge": [
-        0.3126695474501863,
-        0.8318224187964902
+        0.07128886052197145,
+        0.5396943072754374
       ],
       "Analgesic_rescue": [
-        1.36695179748006,
-        1.36695179748006
+        0.35690525259375955,
+        0.8653900800934353
       ]
     },
     "Pre-admission_MRI": {
       "Request_for_allograft_before_admission": [
-        0.16817758120350962,
-        0.6873304525498136
+        0.0369406600517401,
+        0.4628948414020714
       ],
       "Surgical_consents": [
-        1.7281817130967518,
-        1.7281817130967518
+        0.5371051585979285,
+        0.9630593399482599
       ]
     },
     "Verification_of_surgical_informed_consent": {
       "Verification_of_informed_consent_for_allograft": [
-        0.16817758120350962,
-        0.6873304525498136
+        0.02911901351158455,
+        0.4410771102506009
       ],
       "Verification_of_fasting_for_surgery": [
-        2.0171656455901052,
-        2.0171656455901052
+        0.5589228897493991,
+        0.9708809864884155
       ]
     },
     "Checking_the_surgical_wound": {
       "Ambulation": [
-        0.16817758120350962,
-        0.6873304525498136
+        0.02911901351158455,
+        0.4410771102506009
       ],
       "Dressing_staining": [
-        2.0171656455901052,
-        2.0171656455901052
+        0.5589228897493991,
+        0.9708809864884155
       ]
     },
     "Request_for_allograft_before_admission": {
       "Surgical_consents": [
-        0.16817758120350962,
-        0.6873304525498136
+        0.7224598312333834,
+        1.0
       ]
     },
     "Verification_of_informed_consent_for_allograft": {
       "Verification_of_fasting_for_surgery": [
-        0.16817758120350962,
-        0.6873304525498136
+        0.7224598312333834,
+        1.0
       ]
     },
     "Analgesic_rescue": {
       "Discharge": [
-        1.6559357299734134,
-        1.6559357299734134
+        0.7224598312333834,
+        1.0
       ]
     },
     "Dressing_staining": {
       "In-hospital_extension_of_antibiotics": [
-        2.0171656455901052,
-        2.0171656455901052
+        0.7224598312333834,
+        1.0
       ]
     },
     "Surgical_consents": {
       "Pre-anesthetic_evaluation_in_consultations": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Pre-anesthetic_evaluation_in_consultations": {
       "Verification_of_anesthesia_evaluationin-hospital_request": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Verification_of_anesthesia_evaluationin-hospital_request": {
       "Medication_regimen_and_antibiotic_induction": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Medication_regimen_and_antibiotic_induction": {
       "Verification_of_surgical_informed_consent": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Verification_of_fasting_for_surgery": {
       "Antibiotics_during_surgery": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Antibiotics_during_surgery": {
       "Surgical_protocol": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Surgical_protocol": {
       "Low_Molecular_Weight_Heparin_(LMWH)_post-surgery": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Low_Molecular_Weight_Heparin_(LMWH)_post-surgery": {
       "Antibiotics_post-surgery": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Antibiotics_post-surgery": {
       "Removal_of_drain_on_the_first_day": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     },
     "Removal_of_drain_on_the_first_day": {
       "Checking_the_surgical_wound": [
-        2.3061495780834584,
-        2.3061495780834584
+        0.7224598312333834,
+        1.0
       ]
     }
   },
   "30": {
     "In-hospital_extension_of_antibiotics": {
       "Discharge": [
-        0.0059084379948573795,
-        0.16670751396958874
+        0.006259608194415275,
+        0.16839423551396077
       ],
       "Analgesic_rescue": [
-        0.01847663532769335,
-        0.21323817721072091
+        0.019493196676100222,
+        0.21629739935017386
       ],
       "Ambulation": [
-        0.7031831605558306,
-        0.9469043057578189
+        0.7394884560577305,
+        0.9635841955980974
       ]
     },
     "Ambulation": {
@@ -346,26 +346,26 @@
     },
     "Rehabilitation": {
       "In-hospital_extension_of_antibiotics": [
-        0.03459925995971616,
-        0.25621441315266624
+        0.04288550708157517,
+        0.2752045632187925
       ],
       "Discharge": [
-        0.09504978102401235,
-        0.37306047381027446
+        0.1161247176943104,
+        0.406538331515947
       ],
       "Analgesic_rescue": [
-        0.3919700954540873,
-        0.7262276256938489
+        0.47514466102481917,
+        0.7976193108550338
       ]
     },
     "Pre-admission_MRI": {
       "Request_for_allograft_before_admission": [
-        0.05309569424218105,
-        0.2968168394441695
+        0.06538521483951729,
+        0.32089584843081365
       ],
       "Surgical_consents": [
-        0.5555169795568831,
-        0.8581750444608938
+        0.6791041515691864,
+        0.9346147851604828
       ]
     },
     "Verification_of_surgical_informed_consent": {
@@ -390,26 +390,26 @@
     },
     "Request_for_allograft_before_admission": {
       "Surgical_consents": [
-        0.05309569424218105,
-        0.2968168394441695
+        0.8864829086095221,
+        1.0
       ]
     },
     "Verification_of_informed_consent_for_allograft": {
       "Verification_of_fasting_for_surgery": [
-        0.05309569424218105,
-        0.2968168394441695
+        0.8864829086095221,
+        1.0
       ]
     },
     "Analgesic_rescue": {
       "Discharge": [
-        0.5212387898833981,
-        0.8333543735604105
+        0.8864829086095221,
+        1.0
       ]
     },
     "Dressing_staining": {
       "In-hospital_extension_of_antibiotics": [
-        0.7031831605558306,
-        0.9469043057578189
+        0.8864829086095221,
+        1.0
       ]
     },
     "Surgical_consents": {
@@ -476,158 +476,158 @@
   "100": {
     "In-hospital_extension_of_antibiotics": {
       "Discharge": [
-        0.001767386565547261,
-        0.0544875247609346
+        0.01261123681246492,
+        0.0907977218720886
       ],
       "Analgesic_rescue": [
-        0.005501852234968185,
-        0.07001316294199365
+        0.03363109206646072,
+        0.13619201782664436
       ],
       "Ambulation": [
-        0.18404578126986462,
-        0.35371172631861636
+        0.821496216222969,
+        0.9422665226753743
       ]
     },
     "Ambulation": {
       "Analgesic_rescue": [
-        0.005501852234968185,
-        0.07001316294199365
+        0.03211223061788685,
+        0.13328326919464814
       ],
       "Discharge": [
-        0.005501852234968185,
-        0.07001316294199365
+        0.03211223061788685,
+        0.13328326919464814
       ],
       "Rehabilitation": [
-        0.18404578126986462,
-        0.35371172631861636
+        0.786326471925476,
+        0.9198773359254561
       ]
     },
     "Rehabilitation": {
       "In-hospital_extension_of_antibiotics": [
-        0.01025433822341481,
-        0.084520780804027
+        0.06653759840782579,
+        0.19268917657371415
       ],
       "Discharge": [
-        0.02778574526665662,
-        0.12476968531222507
+        0.15908177491808728,
+        0.3223769675689907
       ],
       "Analgesic_rescue": [
-        0.10893476059773155,
-        0.25548181233642975
+        0.5564732488706151,
+        0.7398360411367689
       ]
     },
     "Pre-admission_MRI": {
       "Request_for_allograft_before_admission": [
-        0.01566305055184801,
-        0.09837217232607375
+        0.09608376236924875,
+        0.2372203351141372
       ],
       "Surgical_consents": [
-        0.15001174503655804,
-        0.3107053471500031
+        0.7627796648858628,
+        0.9039162376307514
       ]
     },
     "Verification_of_surgical_informed_consent": {
       "Verification_of_informed_consent_for_allograft": [
-        0.01566305055184801,
-        0.09837217232607375
+        0.08012266407454402,
+        0.21367352807452403
       ],
       "Verification_of_fasting_for_surgery": [
-        0.18404578126986462,
-        0.35371172631861636
+        0.786326471925476,
+        0.9198773359254561
       ]
     },
     "Checking_the_surgical_wound": {
       "Ambulation": [
-        0.01566305055184801,
-        0.09837217232607375
+        0.08012266407454402,
+        0.21367352807452403
       ],
       "Dressing_staining": [
-        0.18404578126986462,
-        0.35371172631861636
+        0.786326471925476,
+        0.9198773359254561
       ]
     },
     "Request_for_allograft_before_admission": {
       "Surgical_consents": [
-        0.01566305055184801,
-        0.09837217232607375
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Verification_of_informed_consent_for_allograft": {
       "Verification_of_fasting_for_surgery": [
-        0.01566305055184801,
-        0.09837217232607375
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Analgesic_rescue": {
       "Discharge": [
-        0.14165549531645788,
-        0.2998014930196232
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Dressing_staining": {
       "In-hospital_extension_of_antibiotics": [
-        0.18404578126986462,
-        0.35371172631861636
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Surgical_consents": {
       "Pre-anesthetic_evaluation_in_consultations": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Pre-anesthetic_evaluation_in_consultations": {
       "Verification_of_anesthesia_evaluationin-hospital_request": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Verification_of_anesthesia_evaluationin-hospital_request": {
       "Medication_regimen_and_antibiotic_induction": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Medication_regimen_and_antibiotic_induction": {
       "Verification_of_surgical_informed_consent": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Verification_of_fasting_for_surgery": {
       "Antibiotics_during_surgery": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Antibiotics_during_surgery": {
       "Surgical_protocol": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Surgical_protocol": {
       "Low_Molecular_Weight_Heparin_(LMWH)_post-surgery": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Low_Molecular_Weight_Heparin_(LMWH)_post-surgery": {
       "Antibiotics_post-surgery": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Antibiotics_post-surgery": {
       "Removal_of_drain_on_the_first_day": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     },
     "Removal_of_drain_on_the_first_day": {
       "Checking_the_surgical_wound": [
-        0.21894753866228117,
-        0.39585038432811953
+        0.9630051925239981,
+        0.9999999999999999
       ]
     }
   }
