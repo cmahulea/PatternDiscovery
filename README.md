@@ -96,3 +96,7 @@ WSU CASAS smart home project: D. Cook, A. Crandall, B. Thomas, and N. Krishnan. 
 
 ## Funding
 This work was supported by the Spanish Ministry of Science and Innovation through the project TED2021-130449B-I00 and by the Aragonese Government under Programa de Proyectos Estratégicos de Grupos de Investigación (COSMOS research group, ref. T64-23R).
+
+<p align="center">
+  <img src="./docs/logo_proy.jpg" alt="Logo del proyecto" width="200"/>
+</p>
